@@ -1,7 +1,7 @@
 [![MasterHead](https://www.strongdm.com/hubfs/Imported_Blog_Media/618444033273b36bf0f3a7a1_network-segmentation-3.gif)]
 <h1 align="center">Hi 👋, I'm Yosr GHAZOUANI</h1>
 <h3 align="center">I am a Security Engineering Student who is passionate about learning new tools and technologies!</h3>
-(img align="right" alt="Coding" width="400" src="https://www.pinterest.com/pin/615374736573846166/")
+<img align="right" alt="Coding" width="400" src="https://www.pinterest.com/pin/615374736573846166/">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yosr-ghazouani&label=Profile%20views&color=0e75b6&style=flat" alt="yosr-ghazouani" /> </p>
