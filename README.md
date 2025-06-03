@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Kerberos**
 
-- 📫 How to reach me **yoser.ghazweni33@gmail.com**
+- 📫 How to reach me **yosr.ghazouani33@gmail.com**
 
 <br>
 <br>
